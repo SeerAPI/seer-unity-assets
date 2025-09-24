@@ -1,9 +1,9 @@
-
 name: Auto extract
 
 on:
   schedule:
     - cron: '0 0 * * *'
+  workflow_dispatch:
 
 jobs:
   build:
@@ -78,4 +78,3 @@ jobs:
         else
           echo "No file changes to commit, although version numbers might have changed."
         fi
-
