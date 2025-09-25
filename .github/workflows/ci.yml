@@ -3,7 +3,14 @@ name: Auto extract
 on:
   schedule:
     - cron: '0 10 * * *'
+
   workflow_dispatch:
+    inputs:
+      debug_enabled:
+        type: boolean
+        description: 'Run the build with tmate debugging enabled (https://github.com/marketplace/actions/debugging-with-tmate)'
+        required: false
+        default: false
 
 jobs:
   main:
@@ -78,12 +85,16 @@ jobs:
         cat changes.txt >> "$GITHUB_OUTPUT"
         echo "EOF" >> "$GITHUB_OUTPUT"
 
+    - name: Setup tmate session
+      uses: mxschmitt/action-tmate@v3
+      if: ${{ github.event_name == 'workflow_dispatch' && inputs.debug_enabled }}
+
     - name: Commit and push changes
       # This step only runs if the previous step produced output (i.e., versions changed)
       if: steps.process_packages.outputs.changes != ''
       run: |
-        git config --global user.name "github-actions[bot]"
-        git config --global user.email "github-actions[bot]@users.noreply.github.com"
+        git config user.name "github-actions[bot]"
+        git config user.email "github-actions[bot]@users.noreply.github.com"
         git config http.postBuffer 10g
         
         git add package-manifests/ newseer/assets
