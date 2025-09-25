@@ -38,7 +38,21 @@ jobs:
         
         # Run processing for each package and collect potential commit message lines
         CONFIG_CHANGES=$(scripts/process_package.sh ConfigPackage newseer.config newseer)
-        DEFAULT_CHANGES=$(scripts/process_package.sh DefaultPackage newseer.default newseer "*game_audios*" "*assets_art_ui*")
+        DEFAULT_CHANGES=$(scripts/process_package.sh \
+          DefaultPackage \
+          newseer.default \
+          newseer \
+          "*game_audios_cv*" \
+          "*art_ui_pettype*" \
+          "*art_ui_battleeffect*" \
+          "*art_ui_avatar*" \
+          "*game_ui_headframe*" \
+          "*art_ui_namecard*" \
+          "*assets_art_ui_assets_pet_head*" \
+          "*assets_art_ui_assets_pet_body*" \
+          "*assets_art_ui_assets_archive*" \
+          "*assets_art_ui_assets_countermark*" \
+          "*assets_art_ui_assets_item*")
         
         # Combine changes into a single variable
         ALL_CHANGES=""
