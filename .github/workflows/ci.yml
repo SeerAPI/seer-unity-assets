@@ -6,8 +6,10 @@ on:
   workflow_dispatch:
 
 jobs:
-  build:
+  main:
     runs-on: ubuntu-latest
+    env:
+      TQDM_MININTERVAL: 5
 
     steps:
     - name: Checkout repository
@@ -67,6 +69,7 @@ jobs:
       run: |
         git config --global user.name "github-actions[bot]"
         git config --global user.email "github-actions[bot]@users.noreply.github.com"
+        git config http.postBuffer 10g
         
         git add package-manifests/ newseer/assets
         
