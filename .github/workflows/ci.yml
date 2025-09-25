@@ -46,7 +46,6 @@ jobs:
           "*art_ui_pettype*" \
           "*art_ui_battleeffect*" \
           "*art_ui_avatar*" \
-          "*game_ui_headframe*" \
           "*art_ui_namecard*" \
           "*assets_art_ui_assets_pet_head*" \
           "*assets_art_ui_assets_pet_body*" \
