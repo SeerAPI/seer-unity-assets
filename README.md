@@ -1,5 +1,5 @@
 # seer-unity-assets
-赛尔号Unity端静态资源，每天0点自动检查更新</br>
+赛尔号Unity端静态资源节选，主要包含道具图标、精灵头像/全身图、Config数据等，每天18时（UTF+8）自动检查更新。</br>
 该项目由[Albi0](https://github.com/SeerAPI/albi0)驱动
 
 # 声明
