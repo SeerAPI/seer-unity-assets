@@ -91,8 +91,6 @@ jobs:
 
     - name: Commit and push changes
       id: commit-and-push
-      # This step only runs if the previous step produced output (i.e., versions changed)
-      if: steps.process_packages.outputs.changes != ''
       run: |
         git config user.name "github-actions[bot]"
         git config user.email "github-actions[bot]@users.noreply.github.com"
@@ -105,13 +103,15 @@ jobs:
           COMMIT_MESSAGE=$(printf "Update packages\n%s" "${{ steps.process_packages.outputs.changes }}")
           git commit -m "$COMMIT_MESSAGE"
           git push
+          echo "FILE_CHANGED=true" >> "$GITHUB_OUTPUT"
         else
           echo "No file changes to commit, although version numbers might have changed."
+          echo "FILE_CHANGED=false" >> "$GITHUB_OUTPUT"
         fi
 
     - name: Repository Dispatch
       uses: peter-evans/repository-dispatch@v4
-      if: steps.commit-and-push.outcome == 'success'
+      if: steps.commit-and-push.output.file_changed == 'true'
       with:
         token: ${{ secrets.PAT }}
         repository: SeerAPI/config-sources
