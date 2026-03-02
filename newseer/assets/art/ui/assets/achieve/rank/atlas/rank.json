@@ -1,0 +1,844 @@
+{
+    "m_Name": "",
+    "m_PackedSprites": [
+        {
+            "m_FileID": 0,
+            "m_PathID": -8278127255743340656
+        },
+        {
+            "m_FileID": 0,
+            "m_PathID": -6966077461767644835
+        },
+        {
+            "m_FileID": 0,
+            "m_PathID": -8441520953156847469
+        },
+        {
+            "m_FileID": 0,
+            "m_PathID": -9206965606209203986
+        },
+        {
+            "m_FileID": 0,
+            "m_PathID": -2696150391624107317
+        },
+        {
+            "m_FileID": 0,
+            "m_PathID": 8210050263674773403
+        },
+        {
+            "m_FileID": 0,
+            "m_PathID": 2802155912185441026
+        },
+        {
+            "m_FileID": 0,
+            "m_PathID": -6624949668332582119
+        },
+        {
+            "m_FileID": 0,
+            "m_PathID": -2818680433013081461
+        },
+        {
+            "m_FileID": 0,
+            "m_PathID": -3435026424504470996
+        },
+        {
+            "m_FileID": 0,
+            "m_PathID": -4862382164916868192
+        },
+        {
+            "m_FileID": 0,
+            "m_PathID": 5600708697668338194
+        },
+        {
+            "m_FileID": 0,
+            "m_PathID": 5882211059609553343
+        },
+        {
+            "m_FileID": 0,
+            "m_PathID": 5713217764938583819
+        },
+        {
+            "m_FileID": 0,
+            "m_PathID": -1814612106113378858
+        },
+        {
+            "m_FileID": 0,
+            "m_PathID": -8123397496868016309
+        },
+        {
+            "m_FileID": 0,
+            "m_PathID": 2276068308659132653
+        }
+    ],
+    "m_PackedSpriteNamesToIndex": [
+        "1",
+        "6",
+        "2",
+        "12",
+        "14",
+        "8",
+        "15",
+        "16",
+        "13",
+        "4",
+        "5",
+        "11",
+        "3",
+        "10",
+        "9",
+        "0",
+        "7"
+    ],
+    "m_RenderDataMap": [
+        [
+            [
+                {
+                    "data[0]": 151108771,
+                    "data[1]": 1301323182,
+                    "data[2]": 1856759952,
+                    "data[3]": 589620551
+                },
+                21300000
+            ],
+            {
+                "texture": {
+                    "m_FileID": 0,
+                    "m_PathID": -2132789938406346738
+                },
+                "alphaTexture": {
+                    "m_FileID": 0,
+                    "m_PathID": 0
+                },
+                "textureRect": {
+                    "x": 0.0,
+                    "y": 770.0761108398438,
+                    "width": 128.0,
+                    "height": 87.84776306152344
+                },
+                "textureRectOffset": {
+                    "x": 0.0,
+                    "y": 16.076120376586914
+                },
+                "atlasRectOffset": {
+                    "x": 0.0,
+                    "y": 754.0
+                },
+                "uvTransform": {
+                    "x": 100.0,
+                    "y": 64.0,
+                    "z": 100.0,
+                    "w": 818.0
+                },
+                "downscaleMultiplier": 1.0,
+                "settingsRaw": 67,
+                "secondaryTextures": []
+            }
+        ],
+        [
+            [
+                {
+                    "data[0]": 456811492,
+                    "data[1]": 1314409703,
+                    "data[2]": 709526459,
+                    "data[3]": 665723158
+                },
+                21300000
+            ],
+            {
+                "texture": {
+                    "m_FileID": 0,
+                    "m_PathID": -2132789938406346738
+                },
+                "alphaTexture": {
+                    "m_FileID": 0,
+                    "m_PathID": 0
+                },
+                "textureRect": {
+                    "x": 132.0,
+                    "y": 518.0761108398438,
+                    "width": 128.0,
+                    "height": 101.84776306152344
+                },
+                "textureRectOffset": {
+                    "x": 0.0,
+                    "y": 13.076120376586914
+                },
+                "atlasRectOffset": {
+                    "x": 132.0,
+                    "y": 505.0
+                },
+                "uvTransform": {
+                    "x": 100.0,
+                    "y": 196.0,
+                    "z": 100.0,
+                    "w": 569.0
+                },
+                "downscaleMultiplier": 1.0,
+                "settingsRaw": 67,
+                "secondaryTextures": []
+            }
+        ],
+        [
+            [
+                {
+                    "data[0]": 1068008577,
+                    "data[1]": 1328948240,
+                    "data[2]": 3653928321,
+                    "data[3]": 2762339270
+                },
+                21300000
+            ],
+            {
+                "texture": {
+                    "m_FileID": 0,
+                    "m_PathID": -2132789938406346738
+                },
+                "alphaTexture": {
+                    "m_FileID": 0,
+                    "m_PathID": 0
+                },
+                "textureRect": {
+                    "x": 132.0,
+                    "y": 624.0429077148438,
+                    "width": 128.0,
+                    "height": 97.88097381591797
+                },
+                "textureRectOffset": {
+                    "x": 0.0,
+                    "y": 16.04290771484375
+                },
+                "atlasRectOffset": {
+                    "x": 132.0,
+                    "y": 608.0
+                },
+                "uvTransform": {
+                    "x": 100.0,
+                    "y": 196.0,
+                    "z": 100.0,
+                    "w": 672.0
+                },
+                "downscaleMultiplier": 1.0,
+                "settingsRaw": 67,
+                "secondaryTextures": []
+            }
+        ],
+        [
+            [
+                {
+                    "data[0]": 1316499318,
+                    "data[1]": 1227098513,
+                    "data[2]": 117019521,
+                    "data[3]": 2537530398
+                },
+                21300000
+            ],
+            {
+                "texture": {
+                    "m_FileID": 0,
+                    "m_PathID": -2132789938406346738
+                },
+                "alphaTexture": {
+                    "m_FileID": 0,
+                    "m_PathID": 0
+                },
+                "textureRect": {
+                    "x": 0.0,
+                    "y": 0.0,
+                    "width": 128.0,
+                    "height": 128.0
+                },
+                "textureRectOffset": {
+                    "x": 0.0,
+                    "y": 0.0
+                },
+                "atlasRectOffset": {
+                    "x": 0.0,
+                    "y": 0.0
+                },
+                "uvTransform": {
+                    "x": 100.0,
+                    "y": 64.0,
+                    "z": 100.0,
+                    "w": 64.0
+                },
+                "downscaleMultiplier": 1.0,
+                "settingsRaw": 67,
+                "secondaryTextures": []
+            }
+        ],
+        [
+            [
+                {
+                    "data[0]": 1394204183,
+                    "data[1]": 1095353876,
+                    "data[2]": 2763042983,
+                    "data[3]": 2458657002
+                },
+                21300000
+            ],
+            {
+                "texture": {
+                    "m_FileID": 0,
+                    "m_PathID": -2132789938406346738
+                },
+                "alphaTexture": {
+                    "m_FileID": 0,
+                    "m_PathID": 0
+                },
+                "textureRect": {
+                    "x": 132.0,
+                    "y": 0.0,
+                    "width": 128.0,
+                    "height": 128.0
+                },
+                "textureRectOffset": {
+                    "x": 0.0,
+                    "y": 0.0
+                },
+                "atlasRectOffset": {
+                    "x": 132.0,
+                    "y": 0.0
+                },
+                "uvTransform": {
+                    "x": 100.0,
+                    "y": 196.0,
+                    "z": 100.0,
+                    "w": 64.0
+                },
+                "downscaleMultiplier": 1.0,
+                "settingsRaw": 67,
+                "secondaryTextures": []
+            }
+        ],
+        [
+            [
+                {
+                    "data[0]": 2586962108,
+                    "data[1]": 1152847069,
+                    "data[2]": 45024688,
+                    "data[3]": 277007325
+                },
+                21300000
+            ],
+            {
+                "texture": {
+                    "m_FileID": 0,
+                    "m_PathID": -2132789938406346738
+                },
+                "alphaTexture": {
+                    "m_FileID": 0,
+                    "m_PathID": 0
+                },
+                "textureRect": {
+                    "x": 132.0,
+                    "y": 394.04290771484375,
+                    "width": 128.0,
+                    "height": 119.9141845703125
+                },
+                "textureRectOffset": {
+                    "x": 0.0,
+                    "y": 5.04290771484375
+                },
+                "atlasRectOffset": {
+                    "x": 132.0,
+                    "y": 389.0
+                },
+                "uvTransform": {
+                    "x": 100.0,
+                    "y": 196.0,
+                    "z": 100.0,
+                    "w": 453.0
+                },
+                "downscaleMultiplier": 1.0,
+                "settingsRaw": 67,
+                "secondaryTextures": []
+            }
+        ],
+        [
+            [
+                {
+                    "data[0]": 2638148233,
+                    "data[1]": 1284710721,
+                    "data[2]": 778869679,
+                    "data[3]": 865030232
+                },
+                21300000
+            ],
+            {
+                "texture": {
+                    "m_FileID": 0,
+                    "m_PathID": -2132789938406346738
+                },
+                "alphaTexture": {
+                    "m_FileID": 0,
+                    "m_PathID": 0
+                },
+                "textureRect": {
+                    "x": 264.0,
+                    "y": 0.0,
+                    "width": 128.0,
+                    "height": 128.0
+                },
+                "textureRectOffset": {
+                    "x": 0.0,
+                    "y": 0.0
+                },
+                "atlasRectOffset": {
+                    "x": 264.0,
+                    "y": 0.0
+                },
+                "uvTransform": {
+                    "x": 100.0,
+                    "y": 328.0,
+                    "z": 100.0,
+                    "w": 64.0
+                },
+                "downscaleMultiplier": 1.0,
+                "settingsRaw": 67,
+                "secondaryTextures": []
+            }
+        ],
+        [
+            [
+                {
+                    "data[0]": 2972592331,
+                    "data[1]": 1244727910,
+                    "data[2]": 2728997014,
+                    "data[3]": 579938668
+                },
+                21300000
+            ],
+            {
+                "texture": {
+                    "m_FileID": 0,
+                    "m_PathID": -2132789938406346738
+                },
+                "alphaTexture": {
+                    "m_FileID": 0,
+                    "m_PathID": 0
+                },
+                "textureRect": {
+                    "x": 0.07612049579620361,
+                    "y": 264.0,
+                    "width": 127.92388153076172,
+                    "height": 128.0
+                },
+                "textureRectOffset": {
+                    "x": 0.07612049579620361,
+                    "y": 0.0
+                },
+                "atlasRectOffset": {
+                    "x": 0.0,
+                    "y": 264.0
+                },
+                "uvTransform": {
+                    "x": 100.0,
+                    "y": 64.0,
+                    "z": 100.0,
+                    "w": 328.0
+                },
+                "downscaleMultiplier": 1.0,
+                "settingsRaw": 67,
+                "secondaryTextures": []
+            }
+        ],
+        [
+            [
+                {
+                    "data[0]": 3290492059,
+                    "data[1]": 1141397851,
+                    "data[2]": 746087071,
+                    "data[3]": 1855978765
+                },
+                21300000
+            ],
+            {
+                "texture": {
+                    "m_FileID": 0,
+                    "m_PathID": -2132789938406346738
+                },
+                "alphaTexture": {
+                    "m_FileID": 0,
+                    "m_PathID": 0
+                },
+                "textureRect": {
+                    "x": 0.0,
+                    "y": 132.0,
+                    "width": 128.0,
+                    "height": 128.0
+                },
+                "textureRectOffset": {
+                    "x": 0.0,
+                    "y": 0.0
+                },
+                "atlasRectOffset": {
+                    "x": 0.0,
+                    "y": 132.0
+                },
+                "uvTransform": {
+                    "x": 100.0,
+                    "y": 64.0,
+                    "z": 100.0,
+                    "w": 196.0
+                },
+                "downscaleMultiplier": 1.0,
+                "settingsRaw": 67,
+                "secondaryTextures": []
+            }
+        ],
+        [
+            [
+                {
+                    "data[0]": 3342179218,
+                    "data[1]": 1212227228,
+                    "data[2]": 1854611874,
+                    "data[3]": 1267169057
+                },
+                21300000
+            ],
+            {
+                "texture": {
+                    "m_FileID": 0,
+                    "m_PathID": -2132789938406346738
+                },
+                "alphaTexture": {
+                    "m_FileID": 0,
+                    "m_PathID": 0
+                },
+                "textureRect": {
+                    "x": 0.0,
+                    "y": 522.2929077148438,
+                    "width": 128.0,
+                    "height": 121.68035888671875
+                },
+                "textureRectOffset": {
+                    "x": 0.0,
+                    "y": 5.292893409729004
+                },
+                "atlasRectOffset": {
+                    "x": 0.0,
+                    "y": 517.0
+                },
+                "uvTransform": {
+                    "x": 100.0,
+                    "y": 64.0,
+                    "z": 100.0,
+                    "w": 581.0
+                },
+                "downscaleMultiplier": 1.0,
+                "settingsRaw": 67,
+                "secondaryTextures": []
+            }
+        ],
+        [
+            [
+                {
+                    "data[0]": 3455793753,
+                    "data[1]": 1215782259,
+                    "data[2]": 1142291097,
+                    "data[3]": 1661349050
+                },
+                21300000
+            ],
+            {
+                "texture": {
+                    "m_FileID": 0,
+                    "m_PathID": -2132789938406346738
+                },
+                "alphaTexture": {
+                    "m_FileID": 0,
+                    "m_PathID": 0
+                },
+                "textureRect": {
+                    "x": 261.0,
+                    "y": 264.29290771484375,
+                    "width": 128.0,
+                    "height": 124.63098907470703
+                },
+                "textureRectOffset": {
+                    "x": 0.0,
+                    "y": 2.292893171310425
+                },
+                "atlasRectOffset": {
+                    "x": 261.0,
+                    "y": 262.0
+                },
+                "uvTransform": {
+                    "x": 100.0,
+                    "y": 325.0,
+                    "z": 100.0,
+                    "w": 326.0
+                },
+                "downscaleMultiplier": 1.0,
+                "settingsRaw": 67,
+                "secondaryTextures": []
+            }
+        ],
+        [
+            [
+                {
+                    "data[0]": 3722623507,
+                    "data[1]": 1300859744,
+                    "data[2]": 2378223037,
+                    "data[3]": 1736148502
+                },
+                21300000
+            ],
+            {
+                "texture": {
+                    "m_FileID": 0,
+                    "m_PathID": -2132789938406346738
+                },
+                "alphaTexture": {
+                    "m_FileID": 0,
+                    "m_PathID": 0
+                },
+                "textureRect": {
+                    "x": 132.0,
+                    "y": 132.02674865722656,
+                    "width": 128.0,
+                    "height": 125.94650268554688
+                },
+                "textureRectOffset": {
+                    "x": 0.0,
+                    "y": 1.0267510414123535
+                },
+                "atlasRectOffset": {
+                    "x": 132.0,
+                    "y": 131.0
+                },
+                "uvTransform": {
+                    "x": 100.0,
+                    "y": 196.0,
+                    "z": 100.0,
+                    "w": 195.0
+                },
+                "downscaleMultiplier": 1.0,
+                "settingsRaw": 67,
+                "secondaryTextures": []
+            }
+        ],
+        [
+            [
+                {
+                    "data[0]": 3919517743,
+                    "data[1]": 1336017983,
+                    "data[2]": 532225202,
+                    "data[3]": 1986567486
+                },
+                21300000
+            ],
+            {
+                "texture": {
+                    "m_FileID": 0,
+                    "m_PathID": -2132789938406346738
+                },
+                "alphaTexture": {
+                    "m_FileID": 0,
+                    "m_PathID": 0
+                },
+                "textureRect": {
+                    "x": 0.0,
+                    "y": 396.0267639160156,
+                    "width": 128.0,
+                    "height": 121.94650268554688
+                },
+                "textureRectOffset": {
+                    "x": 0.0,
+                    "y": 5.0267510414123535
+                },
+                "atlasRectOffset": {
+                    "x": 0.0,
+                    "y": 391.0
+                },
+                "uvTransform": {
+                    "x": 100.0,
+                    "y": 64.0,
+                    "z": 100.0,
+                    "w": 455.0
+                },
+                "downscaleMultiplier": 1.0,
+                "settingsRaw": 67,
+                "secondaryTextures": []
+            }
+        ],
+        [
+            [
+                {
+                    "data[0]": 4074163720,
+                    "data[1]": 1286840023,
+                    "data[2]": 4142453639,
+                    "data[3]": 3865595776
+                },
+                21300000
+            ],
+            {
+                "texture": {
+                    "m_FileID": 0,
+                    "m_PathID": -2132789938406346738
+                },
+                "alphaTexture": {
+                    "m_FileID": 0,
+                    "m_PathID": 0
+                },
+                "textureRect": {
+                    "x": 132.0761260986328,
+                    "y": 262.0,
+                    "width": 124.84776306152344,
+                    "height": 128.0
+                },
+                "textureRectOffset": {
+                    "x": 2.076120376586914,
+                    "y": 0.0
+                },
+                "atlasRectOffset": {
+                    "x": 130.0,
+                    "y": 262.0
+                },
+                "uvTransform": {
+                    "x": 100.0,
+                    "y": 194.0,
+                    "z": 100.0,
+                    "w": 326.0
+                },
+                "downscaleMultiplier": 1.0,
+                "settingsRaw": 67,
+                "secondaryTextures": []
+            }
+        ],
+        [
+            [
+                {
+                    "data[0]": 4196454153,
+                    "data[1]": 1240397823,
+                    "data[2]": 308805559,
+                    "data[3]": 3050326424
+                },
+                21300000
+            ],
+            {
+                "texture": {
+                    "m_FileID": 0,
+                    "m_PathID": -2132789938406346738
+                },
+                "alphaTexture": {
+                    "m_FileID": 0,
+                    "m_PathID": 0
+                },
+                "textureRect": {
+                    "x": 264.07611083984375,
+                    "y": 132.0,
+                    "width": 125.84776306152344,
+                    "height": 128.0
+                },
+                "textureRectOffset": {
+                    "x": 1.0761204957962036,
+                    "y": 0.0
+                },
+                "atlasRectOffset": {
+                    "x": 263.0,
+                    "y": 132.0
+                },
+                "uvTransform": {
+                    "x": 100.0,
+                    "y": 327.0,
+                    "z": 100.0,
+                    "w": 196.0
+                },
+                "downscaleMultiplier": 1.0,
+                "settingsRaw": 67,
+                "secondaryTextures": []
+            }
+        ],
+        [
+            [
+                {
+                    "data[0]": 4265926424,
+                    "data[1]": 1205728270,
+                    "data[2]": 1284878248,
+                    "data[3]": 629386116
+                },
+                21300000
+            ],
+            {
+                "texture": {
+                    "m_FileID": 0,
+                    "m_PathID": -2132789938406346738
+                },
+                "alphaTexture": {
+                    "m_FileID": 0,
+                    "m_PathID": 0
+                },
+                "textureRect": {
+                    "x": 264.0,
+                    "y": 393.0267639160156,
+                    "width": 128.0,
+                    "height": 87.89713287353516
+                },
+                "textureRectOffset": {
+                    "x": 0.0,
+                    "y": 17.026750564575195
+                },
+                "atlasRectOffset": {
+                    "x": 264.0,
+                    "y": 376.0
+                },
+                "uvTransform": {
+                    "x": 100.0,
+                    "y": 328.0,
+                    "z": 100.0,
+                    "w": 440.0
+                },
+                "downscaleMultiplier": 1.0,
+                "settingsRaw": 67,
+                "secondaryTextures": []
+            }
+        ],
+        [
+            [
+                {
+                    "data[0]": 4267193910,
+                    "data[1]": 1296513387,
+                    "data[2]": 2129094334,
+                    "data[3]": 2902715224
+                },
+                21300000
+            ],
+            {
+                "texture": {
+                    "m_FileID": 0,
+                    "m_PathID": -2132789938406346738
+                },
+                "alphaTexture": {
+                    "m_FileID": 0,
+                    "m_PathID": 0
+                },
+                "textureRect": {
+                    "x": 0.0,
+                    "y": 648.0761108398438,
+                    "width": 128.0,
+                    "height": 117.68690490722656
+                },
+                "textureRectOffset": {
+                    "x": 0.0,
+                    "y": 5.076120376586914
+                },
+                "atlasRectOffset": {
+                    "x": 0.0,
+                    "y": 643.0
+                },
+                "uvTransform": {
+                    "x": 100.0,
+                    "y": 64.0,
+                    "z": 100.0,
+                    "w": 707.0
+                },
+                "downscaleMultiplier": 1.0,
+                "settingsRaw": 67,
+                "secondaryTextures": []
+            }
+        ]
+    ],
+    "m_Tag": "",
+    "m_IsVariant": false
+}
