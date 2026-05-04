@@ -1,0 +1,37 @@
+{
+    "m_GameObject": {
+        "m_FileID": 0,
+        "m_PathID": 0
+    },
+    "m_Enabled": 1,
+    "m_Script": {
+        "m_FileID": 0,
+        "m_PathID": 6943497729767635973
+    },
+    "m_Name": "skeleton_Data",
+    "dataName": "1301105",
+    "dragonBonesJSON": {
+        "m_FileID": 0,
+        "m_PathID": 880273198834523179
+    },
+    "textureAtlas": [
+        {
+            "textureAtlasJSON": {
+                "m_FileID": 0,
+                "m_PathID": 8922984333431755158
+            },
+            "texture": {
+                "m_FileID": 0,
+                "m_PathID": -2801102923960146537
+            },
+            "material": {
+                "m_FileID": 0,
+                "m_PathID": -217166520607377085
+            },
+            "uiMaterial": {
+                "m_FileID": 0,
+                "m_PathID": 3820022765149809963
+            }
+        }
+    ]
+}
